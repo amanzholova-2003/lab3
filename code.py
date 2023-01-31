@@ -1,4 +1,4 @@
-# Amanzholova Assel lab 2
+# Amanzholova Assel lab 1
 print("Amanzholova Assel lab 2")
 
 
